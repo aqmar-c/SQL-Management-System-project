@@ -1,0 +1,12 @@
+1, ABCD, Billy, Students
+2, ASDF, Rash, Students
+3, sdfg, fghj, PREMIUM_SUBSCRIBERS
+4, rasman, kasdgfj, EDUCATORS
+5, Aqmar, Aqmar, REGULAR6, Crack, C, STUDENTS
+6, Crack, C, STUDENTS
+7, d, d, EDUCATORS
+8, l, l, PREMIUM_SUBSCRIBERS
+9, s, s, STUDENTS
+10, e, e, SENIOR_CITIZENS
+11, w, w, REGULAR
+12, t, t, PREMIUM_SUBSCRIBERS
